@@ -5,14 +5,15 @@ Workshop for students taking CS50P at [Aryaloka](https://www.aryalokaeducation.c
 <img src="img/intro.png" width="40%">
 </p>
 
-## Steps
+## Instructions
 **First step**: click the "Fork" button in the top right corner of the repo, to create your own version of this repo. Then you can use the below check-list to complete the tasks.
 
 *Then in your own fork:*
-* Check off the tasks below as you complete them by putting an `x` in the square brackets like `- [x]`:
+* Check off the tasks below as you complete them by putting an `x` in the square brackets like `- [x]`.
 > [!IMPORTANT]
-> Any link below, right click and "open in new tab" to keep this editor open.
-  
+> Any link below, right click and "*open in new tab*" to keep this editor open.
+
+## Steps
 - [ ] Go to [github.com](https://github.com) > click your profile picture (top right corner) > Your Profile
     * In the left sidebar tap "Edit profile" and set:
       - [ ] Profile picture. Use a real professional picture, a cartoon that represents you, or use some AI image tool to generate a cartoon version from a real photo of you.
